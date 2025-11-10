@@ -2,8 +2,7 @@
 <img width="1200" height="475" alt="GHBanner" src="screenshot.png" />
 </div>
 
-# Run and deploy your AI Studio app
-
+# GUI Cron Manager
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1aePYMha72wD6uo1-prXTedcHZhlEQLn4
